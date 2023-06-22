@@ -1,0 +1,10 @@
+.ulitems {
+    display: flex;
+    padding: 40px 3px 4px 48px;
+  }
+  .liitem {
+    list-style: none;
+  }
+  .inner2 {
+    margin-left: 26px;
+  }
